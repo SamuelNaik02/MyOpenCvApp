@@ -1,0 +1,23 @@
+# Android/IntelliJ
+.gradle/
+.idea/
+local.properties
+/.gradle/
+/build/
+/captures/
+/.externalNativeBuild/
+*.iml
+
+# Node
+node_modules/
+dist/
+.env
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# logs
+*.log
