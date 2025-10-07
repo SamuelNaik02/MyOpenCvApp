@@ -1,0 +1,7 @@
+{
+  "name": "openvc-web",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "npx http-server -p 3000"
+  }
+}
